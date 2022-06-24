@@ -1,0 +1,30 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    background: black url(lolis/chika-dance.gif);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+#area-principal {
+    margin: 5% auto;
+    width: 80%;
+    text-align: center;
+    background: black;
+    border: solid red ;
+}
+#area-segunda {
+    margin: 5% auto;
+    width: 80%;
+    text-align: center;
+    background: black;
+    border: solid red ;
+}
+.primeira{
+    width:200px;
+    height:200px;
+    background: #EDFFAB;
+    border: dashed #BA9593;
+    color:#BA9593;
+    text-align: center;
+}
